@@ -1,0 +1,5 @@
+# ignored
+env
+__pycache__/
+.pytest_cache
+requirements.txt
