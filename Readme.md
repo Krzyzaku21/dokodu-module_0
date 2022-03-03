@@ -16,3 +16,12 @@ To run this project, install it locally using terminal:
 * pip install virtualenv
 * virtualenv env
 * pip install python
+* activate
+* python main.py
+
+To test code:
+* pip install pylint
+* pip install pytest
+* pylint main.py
+* pylint test_main.py
+* pytest -v
